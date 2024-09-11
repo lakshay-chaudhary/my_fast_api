@@ -98,6 +98,17 @@ Known Issues
 The clustering models (GMM and DBSCAN) require fine-tuning as there are accuracy issues.
 Users may encounter version warnings related to the pickled model files if using different versions of scikit-learn.
 
+**Each cluster has meaning to it and it follows as 
+Cluster 1 (High Spenders): This group includes customers who have a high annual income and spending score. They are likely to be frequent purchasers and respond well to premium products or services.
+
+Cluster 2 (Moderate Spenders): Customers in this cluster have a moderate spending score and income. They may be occasional buyers and are potential targets for promotions and loyalty programs to increase their spending.
+
+Cluster 3 (Low Spenders): This group consists of customers with low spending scores and possibly lower incomes. They might be more price-sensitive and could benefit from discount offers or budget-friendly product suggestions.
+
+Cluster 4 (Brand Loyalists): Customers in this cluster may have lower spending scores but exhibit strong brand loyalty, consistently purchasing certain brands. Engaging this group with personalized marketing strategies can enhance retention.
+
+Cluster 5 (Occasional Buyers): This group may show sporadic purchasing behavior with varied spending scores. Targeting them with targeted marketing campaigns could help convert them into more frequent buyers.
+
 ## Contributing
 
 Contributions from the community is welcomed, If you'd like to contribute, please check out that files are available in 2 different branches : main branch contains main ML model files(google colab) where as branch named API contains sav file , api file and testing file with requirments.txt for downloading required libraries .  
