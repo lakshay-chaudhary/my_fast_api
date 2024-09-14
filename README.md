@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fast_api_clustering_customers.git
+   git clone https://github.com/lakshay-choudhary/my_fast_api.git
    cd Fast_api_clustering_customers/data
    ```
 2. Install the required packages:
