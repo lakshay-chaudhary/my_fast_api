@@ -1,6 +1,12 @@
 # Customer Clustering API
 
 This project is a FastAPI application that provides an API for customer clustering using different machine learning algorithms, including K-Means, DBSCAN, and Gaussian Mixture Models (GMM). The API allows users to submit customer data and receive clustering results based on the selected model.
+## Working Video demonstration 
+
+
+https://github.com/user-attachments/assets/574de44e-eaa8-47ac-8615-782634c375a4
+
+
 
 ## Table of Contents
 
